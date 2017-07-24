@@ -4,4 +4,4 @@
 
 To run simply download or clone repo and open index.html with any web browser
 
-Texted on macOS using Chrome & Firefox
+Tested on macOS using Chrome & Firefox
